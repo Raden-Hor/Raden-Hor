@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
 ## Raden Hor / ​​ហោ​ រ៉ាដែន
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
-[![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
-[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/raden-hor-2bab77195)
+[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/radenhor9)
+[![Gmail](https://img.shields.io/badge/%20-radenhor9@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:radenhor9@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/Phone-+855_10758731-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85510758731)
 
 Hi There👋, My name is <b>Raden </b>. I'm 22 years old and I've 2+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native - typescript</b>.
 
@@ -35,7 +34,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 ### Education
 
-- <b><a href="[https://uc.edu.kh/](http://www.rupp.edu.kh/)" target="_blank" > Royal University of Phnom Penh:
+- <b><a href="http://www.rupp.edu.kh" target="_blank" > Royal University of Phnom Penh:
   </a> </b> - Phnom Penh<br>
   <b>Major</b> - BA in Information Technology (2016-2020)
 
@@ -74,14 +73,11 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 [back to top^](#curriculum-vitae)
 
-- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Phillip Bank:
+- <b> <a target="_blank" href="https://phillipbank.com/" target="_blank" > Phillip Bank:
   </a></b> <br>
   <b>React/ReactNative Developer</b> - May 2020 - July 2021 (1year)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactJs and React Native projects on <b>mobile banking application</b>.
-
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Phillip Bank for 1year to build React Native projects on <b>mobile banking application</b>.
 
 ### Languages
 
