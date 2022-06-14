@@ -78,6 +78,13 @@ I always keep up to date and challenge with new technologies and using Agile met
   <b>React/ReactNative Developer</b> - May 2020 - July 2021 (1year)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Phillip Bank for 1year to build React Native projects on <b>mobile banking application</b>.
+  
+ 
+- <b> <a target="_blank" href="https://ezpizee.com/" target="_blank" > Ezpizee:
+  </a></b> <br>
+  <b>React/ReactNative Developer</b> - July 2021 - April 2022 (1year)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Ezpizee for 1year to build React Native projects.
 
 ### Languages
 
