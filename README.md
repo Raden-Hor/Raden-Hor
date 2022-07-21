@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
 ## Raden Hor / ​​ហោ​ រ៉ាដែន <img src="https://i.pinimg.com/originals/90/59/55/905955419992c3e7b297f786c5a3bc45.gif" width="40">
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 ![](https://bit.ly/3PDYiS6)
 [<img src="https://raw.githubusercontent.com/Raden-Hor/Raden-Hor/main/profile-views.svg" height="50"/>](https://github.com/Raden-Hor)
 
