@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
 ## Raden Hor / ​​ហោ​ រ៉ាដែន <img src="https://i.pinimg.com/originals/90/59/55/905955419992c3e7b297f786c5a3bc45.gif" width="40">
-[<img src="https://raw.githubusercontent.com/Raden-Hor/Raden-Hor/main/profile-views.svg" height="20"/>](https://github.com/Raden-Hor)
+[<img src="https://raw.githubusercontent.com/Raden-Hor/Raden-Hor/main/profile-views.svg" height="25"/>](https://github.com/Raden-Hor)
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/raden-hor-2bab77195)
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/radenhor9)
-[![Gmail](https://img.shields.io/badge/%20-radenhor9@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:radenhor9@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/%20-radenhor9@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:radenhor9@gmail.com?subject=From%20GitHub&cc=radenhor9@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Gmail](https://img.shields.io/badge/Phone-+855_10758731-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85510758731)
 
 Hi There👋, My name is <b>Raden </b>. I'm 22 years old and I've 2+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native - typescript</b>.
