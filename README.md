@@ -56,6 +56,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 - <b>💻 Backend: </b>
   <p>
     <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Spring" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-5496c4?style=flat-square&logo=java&logoColor=white" />
