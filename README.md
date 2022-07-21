@@ -57,6 +57,7 @@ I always keep up to date and challenge with new technologies and using Agile met
   <p>
     <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Spring" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-5496c4?style=flat-square&logo=java&logoColor=white" />
   <p>
 
@@ -65,6 +66,7 @@ I always keep up to date and challenge with new technologies and using Agile met
     <img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> 
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" /> 
+    <img alt="PgAdmin" src="https://img.shields.io/badge/-PgAdmin-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" /> 
   <p>
 - <b>🖼️ Frontend: </b>
   <p>
@@ -86,12 +88,16 @@ I always keep up to date and challenge with new technologies and using Agile met
 
 - <b>🔩 State Management: </b>
   <p>
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
     <img alt="Redux-Saga" src="https://img.shields.io/badge/-reduxsaga-45b8d8?style=flat-square&logo=reduxsaga&logoColor=white" />
     <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-f52718?style=flat-square&logo=recoil&logoColor=white" />
     <img alt="apollographql" src="https://img.shields.io/badge/-apollographql-311C87?style=flat-square&logo=apollographql&logoColor=white" /> 
   <p>
 - <b>🧰 Tools Build Library: </b>
   <p>
+    <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" />
+    <img alt="Apache Maven" src="https://img.shields.io/badge/-Apache Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white" />
+    <img alt="CocoaPods" src="https://img.shields.io/badge/-CocoaPods-EE3322?style=flat-square&logo=CocoaPods&logoColor=white" />
     <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-Npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <p>
@@ -104,7 +110,11 @@ I always keep up to date and challenge with new technologies and using Agile met
     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white" />
     <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
-    <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
+    <img alt="ESLint" src="https://img.shields.io/badge/-StyleLint-4B32C3?style=flat-square&logo=StyleLint&logoColor=white" />
+    <img alt="Amazon AWS" src="https://img.shields.io/badge/AmazonAWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white" />
+    <img alt="GoogleCloud" src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white" />
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
+   
   <p>
 
 ### Working Experiences
