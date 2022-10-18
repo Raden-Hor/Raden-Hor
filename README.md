@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/%20-radenhor9@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:radenhor9@gmail.com?subject=From%20GitHub&cc=radenhor9@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Gmail](https://img.shields.io/badge/Phone-+855_10758731-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85510758731)
 
-Hi There👋, My name is <b>Raden </b>. I'm 22 years old and I've 2+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native - typescript</b>.
-
-I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira) also i've contributed in open-source on GitHub and Npm 🔭. I like to build react generator tools to make development process fast as much as possible also building my own component libraries to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test(some case) to ensure our project is predicable and maintainable. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS) 🌱.
+Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years experiences with front-end backend development.
 
 ### Education
 
@@ -139,7 +137,7 @@ I always keep up to date and challenge with new technologies and using Agile met
 ### Languages
 
 - <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency (B1-B2)
+- <b>English:</b> 
 
 </p>
 
