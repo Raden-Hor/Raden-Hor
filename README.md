@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/%20-radenhor9@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:radenhor9@gmail.com?subject=From%20GitHub&cc=radenhor9@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Gmail](https://img.shields.io/badge/Phone-+855_10758731-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85510758731)
 
-Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years experiences with front-end backend development.
+Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years experiences with front-end and backend development.
 
 ### Education
 
