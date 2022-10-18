@@ -39,11 +39,12 @@ Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years exper
 
 - <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
   </a> </b> - Phnom Penh<br>
-  <b>Major</b> - Web Application (8 hours/day , 5month)
+  <b>Major</b> - Web and Mobile Application (8 hours/day , 9month)
 
   - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
-    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, ReactJS, JSON<br>
+    <b>SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine<br>
+    <b>Mobile</b>: React Native, iOS
 
 - <b><a href="#" target="_blank" > Bethel high school :
   </a> </b> – Kampong Cham<br>
@@ -133,6 +134,11 @@ Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years exper
   <b>React/ReactNative Developer</b> - July 2021 - April 2022 (1year)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Ezpizee for 1year to build React Native projects.
+- <b> <a target="_blank" href="https://vtech.one/" target="_blank" > Vtech:
+  </a></b> <br>
+  <b>Software Engineer</b> - May 2022 - October 2022 (6 months)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Vtech for 6 months to build and maintain livestream projects.
 
 ### Languages
 
