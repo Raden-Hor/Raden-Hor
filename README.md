@@ -124,14 +124,14 @@ Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years exper
 
 - <b> <a target="_blank" href="https://phillipbank.com/" target="_blank" > Phillip Bank:
   </a></b> <br>
-  <b>React/ReactNative Developer</b> - May 2020 - July 2021 (1year)
+  <b>React/ReactNative Developer</b> - Mar 2020 - July 2021 (1year 3 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Phillip Bank for 1year to build React Native projects on <b>mobile banking application</b>.
   
  
 - <b> <a target="_blank" href="https://ezpizee.com/" target="_blank" > Ezpizee:
   </a></b> <br>
-  <b>React/ReactNative Developer</b> - July 2021 - April 2022 (1year)
+  <b>React/ReactNative Developer</b> - July 2021 - April 2022 (10 months)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Ezpizee for 1year to build React Native projects.
 - <b> <a target="_blank" href="https://vtech.one/" target="_blank" > Vtech:
