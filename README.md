@@ -46,9 +46,9 @@ Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years exper
     <b>SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine<br>
     <b>Mobile</b>: React Native, iOS
 
-- <b><a href="#" target="_blank" > Bethel high school :
+- <b><a href="#" target="_blank" > Bosknor & Bethel high school :
   </a> </b> – Kampong Cham<br>
-  <b>Major</b> - General Knowledge - science (2010-2020)
+  <b>Major</b> - General Knowledge - science (2010-2016)
 
 ### My Skill
 
