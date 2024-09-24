@@ -140,6 +140,13 @@ Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years exper
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Vtech for 6 months to build and maintain livestream projects.
 
+- <b> <a target="_blank" href="https://vtech.one/" target="_blank" > Chip Mong Bank:
+  </a></b> <br>
+  <b>Software Engineer Android</b> - October 2023 - Now 
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Chip Mong Bank almost 2 years to build and maintain Mobile Banking projects.
+
+
 ### Languages
 
 - <b>Khmer:</b> Native Language
