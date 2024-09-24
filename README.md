@@ -84,6 +84,8 @@ Hi There👋, My name is <b>Raden </b>. I'm 23 years old and I've 2+ years exper
     <img alt="React" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
     <img alt="iOS" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
+    <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack Compose-3DDC84?style=flat-square&logo=jetpackcompose" />
+    <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean Architecture-3DDC84?style=flat-square&logo=android" />
   <p>
 
 - <b>🔩 State Management: </b>
